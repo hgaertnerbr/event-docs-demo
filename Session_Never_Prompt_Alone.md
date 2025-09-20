@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Session: *Never Prompt Alone – Erfahrungen mit dem KI-Leitfaden bei Continental*
 
 ## Kontext

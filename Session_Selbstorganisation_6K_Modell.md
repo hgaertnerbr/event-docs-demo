@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Session: *Selbstorganisation sichtbar machen – Das 6K-Modell bei LV 1871*
 
 ## Kontext

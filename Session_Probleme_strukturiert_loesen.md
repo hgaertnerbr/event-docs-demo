@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Session: *Probleme strukturiert lösen – Vortrag von Bretschneider*
 
 ## Kontext

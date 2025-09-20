@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Session: *AI Safety und KI-Ethik – Von Bertha Benz bis SAP Responsible AI*
 
 ## Kontext

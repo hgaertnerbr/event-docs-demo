@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Session: *Emotionen, Wissenslücken und die 10 Gebote des Change Management*
 
 ## Kontext

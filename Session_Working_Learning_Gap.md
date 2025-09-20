@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Session: *The Working Learning Gap – Zwischen Alltagsstress und Lernanspruch*
 
 ## Kontext
