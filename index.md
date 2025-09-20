@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Übersicht
+title: Übersicht über Vorträge und Sessions
 ---
 
 # Event Docs Demo
