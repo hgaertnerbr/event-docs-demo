@@ -30,6 +30,9 @@ Die Inhalte wurden KI-gestützt transkribiert und in Markdown strukturiert, um s
 
 ---
 
+## 💬 Chatbot
+→ [Mit den Sessions chatten](https://chat.openai.com/g/g-68cfb40e976c8191b0fab48ee8462cbe-event-doku-bot)
+
 ## ℹ️ Über dieses Projekt
 Diese Seite dient als Beispiel, wie sich mit einfachen Mitteln  
 **Veranstaltungsdokumentationen** erstellen und online teilen lassen:
